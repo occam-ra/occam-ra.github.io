@@ -1,4 +1,5 @@
-Copyright © 1990 The Portland State University OCCAM Project Team
+# LICENSE
+Copyright (c) 1990 The Portland State University OCCAM Project Team
 
 [This program is licensed under the GPL version 3 or later.]
 
