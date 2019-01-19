@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
+logo: img/logo.png
 include:
   - license.md
