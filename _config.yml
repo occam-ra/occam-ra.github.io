@@ -5,3 +5,5 @@ description: The official site for the development of the OCCAM open source soft
 show_downloads: true
 include:
   - license.md
+plugins:
+  - jekyll-sitemap
