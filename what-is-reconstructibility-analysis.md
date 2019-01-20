@@ -1,3 +1,8 @@
+---
+title: OCCAM - What Is Reconstructibility Analysis?
+layout: post
+---
+
 ## Overview of Reconstructibility Analysis (RA)
 
 OCCAM is software developed at Portland State University under the supervision of Dr. Martin Zwick. It implements Reconstructibility Analysis (RA), a method developed in the systems community, and which uses information theory to:
