@@ -5,7 +5,9 @@ OCCAM combines machine learning, data mining, and statistical analysis in a powe
 
 The OCCAM project has been developed over several decades at Portland State University under the auspices of its creator Prof. Martin Zwick. Programmers contributing to the work have included Ken Willett, Joe Fusion and H. Forrest Alexander. It its current form it is proprietary, but the primary focus of development efforts at this time is to make OCCAM open source, and to repackage it to provide easy access for researchers, data scientists, and developers who wish to access the functionality in a standard way.
 
-For more information take a look at the following paper by Dr. Zwick:
+The [current working version of OCCAM](https://dmm.sysc.pdx.edu) is maintained at PSU. That site contains some introductory and research material.
+
+For a fuller introduction, see the following papers by Dr. Zwick:
 * [Wholes and Parts in General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf)
 * [An Overview of Reconstructability Analysis](https://www.pdx.edu/sysc/sites/www.pdx.edu.sysc/files/overview.pdf)
 
