@@ -1,9 +1,9 @@
 # OCCAM: Reconstructability Analysis Tools
 **O**rganizational **C**omplexity **C**omputation **a**nd **M**odeling.
 
-OCCAM is a collection of software tools comprising a library with both command-line and web interfaces for *Reconstructability Analysis* (RA), a kind of statistical analysis closely related to Factor Analysis and Bayesian Belief Networks.
+OCCAM combines machine learning, data mining, and statistical analysis in a powerful workflow that can be applied to nearly type of data to understand its structure, select among possible models, and make predictions. It is a collection of software tools comprising a library with both command-line and web interfaces for *Reconstructability Analysis* (RA), an information-theoretic form of statistical analysis closely related to Factor Analysis and Bayesian Networks.
 
-The OCCAM project has been developed over several decades at Portland State University under the auspices of its creator Prof. Martin Zwick. Programmers contributing to the work have included Ken Willett, Joe Fusion and H. Forrest Alexander.
+The OCCAM project has been developed over several decades at Portland State University under the auspices of its creator Prof. Martin Zwick. Programmers contributing to the work have included Ken Willett, Joe Fusion and H. Forrest Alexander. It its current form it is proprietary, but the primary focus of development efforts at this time is to make OCCAM open source, and to repackage it to provide easy access for researchers, data scientists, and developers who wish to access the functionality in a standard way.
 
 For more information take a look at the following paper by Dr. Zwick:
 * [Wholes and Parts in General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf)
