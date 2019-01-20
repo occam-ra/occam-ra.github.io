@@ -13,3 +13,4 @@ include:
   - license.md
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
