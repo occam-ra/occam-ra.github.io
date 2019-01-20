@@ -4,7 +4,9 @@ title: OCCAM Open Source Project
 description: The official site for the development of the OCCAM open source software.
 show_downloads: true
 github:
-  repository: https://github.com/occam-ra/occam
+  zip_url: https://github.com/occam-ra/occam/zipball/master
+  tar_url: https://github.com/occam-ra/occam/tarball/master
+  repository_url: https://github.com/occam-ra/occam
   repository_nwo: github.com/occam-ra/occam
   repository_name: occam
   is_project_page: true
