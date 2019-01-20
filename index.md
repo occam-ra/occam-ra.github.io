@@ -1,3 +1,8 @@
+---
+title: OCCAM: Reconstructability Analysis Tools
+layout: post
+---
+
 ## OCCAM: Reconstructability Analysis Tools
 **O**rganizational **C**omplexity **C**omputation **a**nd **M**odeling.
 
