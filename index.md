@@ -17,4 +17,4 @@ As of right now, the software will be a bit challenging to get started with. The
 
 Here is the current [project roadmap](roadmap.md), if you have an interest in any of the project areas, learn about becoming a [contributor](contributors/).
 
-Copyright (c) 1990 The Portland State University OCCAM Project Team.
+Copyright &copy; 1990 The Portland State University OCCAM Project Team.

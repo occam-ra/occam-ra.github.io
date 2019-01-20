@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 logo: img/logo.png
 title: OCCAM Open Source Project
 description: The official site for the development of the OCCAM open source software.
+show_downloads: true
 include:
   - license.md
