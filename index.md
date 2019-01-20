@@ -1,7 +1,7 @@
-# OCCAM: Reconstructability Analysis Tools
+## OCCAM: Reconstructability Analysis Tools
 **O**rganizational **C**omplexity **C**omputation **a**nd **M**odeling.
 
-OCCAM combines machine learning, data mining, and statistical analysis in a powerful workflow that can be applied to nearly type of data to understand its structure, select among possible models, and make predictions. It is a collection of software tools comprising a library with both command-line and web interfaces for *Reconstructability Analysis* (RA), an information-theoretic form of statistical analysis closely related to Factor Analysis and Bayesian Networks.
+OCCAM combines machine learning, data mining, and statistical analysis in a powerful workflow that can be applied to nearly any type of data to understand its structure, select among possible models, and make predictions. It is a collection of software tools comprising a library with both command-line and web interfaces for *Reconstructability Analysis* (RA), an information-theoretic form of statistical analysis closely related to [Factor Analysis](https://en.wikipedia.org/wiki/Factor_analysis) and [Bayesian Networks](https://en.wikipedia.org/wiki/Bayesian_network).
 
 The OCCAM project has been developed over several decades at Portland State University under the auspices of its creator Prof. Martin Zwick. Programmers contributing to the work have included Ken Willett, Joe Fusion and H. Forrest Alexander. It its current form it is proprietary, but the primary focus of development efforts at this time is to make OCCAM open source, and to repackage it to provide easy access for researchers, data scientists, and developers who wish to access the functionality in a standard way.
 
@@ -13,6 +13,6 @@ This software is currently being released for the first time as Free Software un
 
 As of right now, the software will be a bit challenging to get started with. There is documentation included, but it is rather out-of-date. The core functionality is encapsulated in a fairly standard C++ library whose interface should be relatively understandable to anyone familiar with both C++ and RA. Help making this software more generally and broadly usable would be greatly appreciated.
 
-Here is the current [project roadmap](roadmap.md), if you have an interest in any of the project areas, please visit the [project repo](https://github.com/occam-ra/occam/) to learn how to contribute.
+Here is the current [project roadmap](roadmap.md), if you have an interest in any of the project areas, learn about becoming a [contributor](contributors/).
 
-Copyright (c) 1990 The Portland State University OCCAM Project Team
+Copyright (c) 1990 The Portland State University OCCAM Project Team.
