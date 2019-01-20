@@ -3,6 +3,12 @@ logo: img/logo.png
 title: OCCAM Open Source Project
 description: The official site for the development of the OCCAM open source software.
 show_downloads: true
+github:
+  repository: https://github.com/occam-ra/occam
+  repository_nwo: github.com/occam-ra/occam
+  repository_name: occam
+  is_project_page: true
+  is_user_page: true
 include:
   - license.md
 plugins:

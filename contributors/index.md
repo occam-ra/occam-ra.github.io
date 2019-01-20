@@ -1,3 +1,7 @@
+---
+title: OCCAM Project Contributors
+layout: post
+---
 ## Contributors
 
 Contributors are currently are students in both the Computer and Systems Science programs but all are welcome.  Before contributing please refer to the [Code of Conduct](code-of-conduct.md) and the following articles:

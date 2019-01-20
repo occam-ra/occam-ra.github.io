@@ -13,8 +13,8 @@ The OCCAM project has been developed over several decades at Portland State Univ
 The [current working version of OCCAM](https://dmm.sysc.pdx.edu) is maintained at PSU. That site contains some introductory and research material.
 
 For a fuller introduction, see the following papers by Dr. Zwick:
-* [Wholes and Parts in General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf)
-* [An Overview of Reconstructability Analysis](https://www.pdx.edu/sysc/sites/www.pdx.edu.sysc/files/overview.pdf)
+* [Wholes and Parts in General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf){:target="_blank"}
+* [An Overview of Reconstructability Analysis](https://www.pdx.edu/sysc/sites/www.pdx.edu.sysc/files/overview.pdf){:target="_blank"}
 
 This software is currently being released for the first time as Free Software under the GPL v3 or later. Please see the [License](license.md) in this distribution for license terms.
 
