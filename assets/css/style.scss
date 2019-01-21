@@ -2,4 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+body { padding: 30px 50px; }
+footer { bottom: 30px; }
+
+.wrapper { overflow: hidden; }
+
 .text-center { text-align: center; }
