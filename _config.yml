@@ -10,7 +10,7 @@ github:
   repository_nwo: github.com/occam-ra/occam
   repository_name: occam
   is_project_page: true
-  is_user_page: true
+  is_user_page: false
 include:
   - license.md
 plugins:
