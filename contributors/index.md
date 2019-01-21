@@ -1,6 +1,6 @@
 ---
 title: OCCAM Project Contributors
-layout: post
+layout: default
 ---
 ## Contributors
 

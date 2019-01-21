@@ -1,6 +1,6 @@
 ---
 title: OCCAM License
-layout: post
+layout: default
 ---
 
 Copyright © 1990 The Portland State University OCCAM Project Team

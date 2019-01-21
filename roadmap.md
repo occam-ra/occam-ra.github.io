@@ -1,6 +1,6 @@
 ---
 title: OCCAM Project Roadmap
-layout: post
+layout: default
 ---
 
 ## Project Roadmap

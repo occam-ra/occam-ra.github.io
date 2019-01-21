@@ -1,6 +1,6 @@
 ---
 title: OCCAM - What Is Reconstructibility Analysis?
-layout: post
+layout: default
 ---
 
 ## Overview of Reconstructibility Analysis (RA)

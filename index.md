@@ -1,6 +1,6 @@
 ---
 title: OCCAM: Reconstructability Analysis Tools
-layout: post
+layout: default
 ---
 
 ## OCCAM: Reconstructability Analysis Tools

@@ -1,6 +1,6 @@
 ---
 title: OCCAM Project Contributors Code of Conduct
-layout: post
+layout: default
 ---
 ## Contributor Code of Conduct
 
