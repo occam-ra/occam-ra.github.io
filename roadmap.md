@@ -7,7 +7,7 @@ layout: default
 
 Currently we're working on organizing the various project domains.  Of particular interest are the user and application interface design and documentation.
 
-Project Areas:
+### Project Areas of Interest:
 * Web interface
 * Command Line interface
 * Python package

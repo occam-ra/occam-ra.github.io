@@ -16,6 +16,6 @@ The theoretical background of RA is not accessible to casual users, but should l
 
 For in-depth introductions to RA, see:
 
-* [An Overview of Reconstructibility Analysis](https://www.pdx.edu/sysc/sites/www.pdx.edu.sysc/files/overview.pdf)
-* [Wholes and Parts In General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf)
+* [An Overview of Reconstructibility Analysis](https://www.pdx.edu/sysc/sites/www.pdx.edu.sysc/files/overview.pdf){:target="_blank"}
+* [Wholes and Parts In General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf){:target="_blank"}
 
