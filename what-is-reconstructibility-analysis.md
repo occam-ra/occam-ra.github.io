@@ -16,7 +16,7 @@ The theoretical background of RA is not accessible to casual users, but should l
 
 For in-depth introductions to RA, see:
 
-* [An Overview of Reconstructibility Analysis](https://www.pdx.edu/sysc/sites/www.pdx.edu.sysc/files/overview.pdf)
-* [Wholes and Parts In General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf)
+* [An Overview of Reconstructibility Analysis](https://www.pdx.edu/sysc/sites/www.pdx.edu.sysc/files/overview.pdf){:target="_blank"}
+* [Wholes and Parts In General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf){:target="_blank"}
 
 For more on applications and past and present research using OCCAM, see the [RA and OCCAM research page](https://www.pdx.edu/sysc/research-discrete-multivariate-modeling) at Portland State University.
