@@ -20,5 +20,9 @@ a:hover {
 	font-weight: normal;
 	text-decoration: underline;
 }
+h1 a:hover {
+	font-weight: bold;
+	text-decoration: none;
+}
 
 section ul li { margin-bottom: 10px; }
