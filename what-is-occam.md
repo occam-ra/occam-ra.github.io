@@ -15,3 +15,7 @@ A typical OCCAM workflow might look like this:
 * Use the search results to quickly compare a list of possible models of the data by their entropy or uncertainty, degrees of freedom, statistical significance, AIC and BIC (information-theoretic criteria which compare models by incorporating both the difference in information content and complexity), prediction accuracy, and other measures. ([Example search output](img/occam-search-example.png))
 * Once a model is selected, fit that model to the data, and examine it in detail: dependent and independent variable relationships, possible variable states (and the model's prediction accuracy for each state), prediction rules for each state, statistical significance, and more. ([Example fit output](img/occam-fit-example.png))
 * Put this insight to use in making predictions, simplifying complex problems while preserving essential features of the data, and answering your important analytical and research questions.
+
+### Who can use it?
+
+Data scientists; genomics and health data researchers; economists, sociologists, and other social scientists; systems and omplexity science researchers; and in general anyone who is working with categorical data. See the [RA and OCCAM research page](https://www.pdx.edu/sysc/research-discrete-multivariate-modeling) at Portland State University for more on applications and past and present research using OCCAM.
