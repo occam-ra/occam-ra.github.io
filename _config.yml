@@ -1,1 +1,18 @@
 theme: jekyll-theme-minimal
+logo: img/logo.png
+title: OCCAM Open Source Project
+description: The official site for the development of the OCCAM open source software.
+show_downloads: true
+github:
+  zip_url: https://github.com/occam-ra/occam/zipball/master
+  tar_url: https://github.com/occam-ra/occam/tarball/master
+  repository_url: https://github.com/occam-ra/occam
+  repository_nwo: github.com/occam-ra/occam
+  repository_name: occam
+  is_project_page: true
+  is_user_page: true
+include:
+  - license.md
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

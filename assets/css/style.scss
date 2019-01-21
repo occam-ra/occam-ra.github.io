@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body { padding: 30px 50px; }
+footer { bottom: 30px; }
+
+.wrapper { overflow: hidden; }
+.ra-img { 
+	width: 125px;
+	margin: 0 auto;
+	display: inline-block;
+	float: right;
+}
+
+.text-center { text-align: center; }
