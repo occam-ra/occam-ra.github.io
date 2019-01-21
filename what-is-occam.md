@@ -18,4 +18,4 @@ A typical OCCAM workflow might look like this:
 
 ### Who can use it?
 
-Data scientists; genomics and health data researchers; economists, sociologists, and other social scientists; systems and omplexity science researchers; and in general anyone who is working with categorical data. See the [RA and OCCAM research page](https://www.pdx.edu/sysc/research-discrete-multivariate-modeling) for more on applications and past and present research using OCCAM.
+Data scientists; genomics and health data researchers; economists, sociologists, and other social scientists; systems and omplexity science researchers; and in general anyone who is working with categorical data. See the [RA and OCCAM research page](https://www.pdx.edu/sysc/research-discrete-multivariate-modeling) at Portland State University for more on applications and past and present research using OCCAM.
