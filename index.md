@@ -15,7 +15,7 @@ The [current working version of OCCAM](http://dmm.sysc.pdx.edu/weboccam.cgi) is 
 
 For a brief introduction to the software and the method, see:
 * <a href = "what-is-occam.html">What is OCCAM and how does it work?</a>
-* <a href = "what-is-occam.html">What is Reconstructibility Analysis?</a></p>
+* <a href = "what-is-occam.html">What is Reconstructibility Analysis?</a>
 
 For a fuller introduction to RA, see the following papers by Dr. Zwick:
 * [Wholes and Parts in General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf){:target="_blank"}
