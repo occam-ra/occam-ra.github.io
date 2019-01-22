@@ -12,7 +12,7 @@ Contributors are currently are students in both the Computer and Systems Science
 
 These will be especially useful if you are new to git and Github collaboration, otherwise they should be a review of Best Practices the Project strives toward.
 
-In addition, while we're working on adopting a formal Code of Conduct, please do your best to give others the benefit of the doubt and adhere to the Inverse Golden Rule: *Do not unto others that which you would not have done unto yourself*.
+In addition, while we work to adopt a formal Code of Conduct, please do your best to give others the benefit of the doubt and adhere to the Inverse Golden Rule: *Do not unto others that which you would not have done unto you*.
 
 The project repository can be found at [https://github.com/occam-ra/occam](https://github.com/occam-ra/occam) and should include increasingly more technical documentation.
 
