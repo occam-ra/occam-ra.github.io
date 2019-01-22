@@ -15,7 +15,7 @@ The [current working version of OCCAM](http://dmm.sysc.pdx.edu/weboccam.cgi) is 
 
 For an introduction to the software and the method, see:
 * <a href = "what-is-occam.html">What is OCCAM and how does it work?</a>
-* <a href = "what-is-occam.html">What is Reconstructibility Analysis?</a>
+* <a href = "what-is-reconstructibility-analysis.html">What is Reconstructibility Analysis?</a>
 
 This software is currently being released for the first time as Free Software under the GPL v3 or later. Please see the [License](license.md) in this distribution for license terms.
 
