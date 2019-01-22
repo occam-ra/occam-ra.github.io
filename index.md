@@ -13,7 +13,11 @@ The OCCAM project has been developed over several decades at Portland State Univ
 
 The [current working version of OCCAM](http://dmm.sysc.pdx.edu/weboccam.cgi) is maintained at PSU. That site contains some introductory and research material.
 
-For a fuller introduction, see the following papers by Dr. Zwick:
+For a brief introduction to the software and the method, see:
+* <a href = "what-is-occam.html">What is OCCAM and how does it work?</a>
+* <a href = "what-is-occam.html">What is Reconstructibility Analysis?</a></p>
+
+For a fuller introduction to RA, see the following papers by Dr. Zwick:
 * [Wholes and Parts in General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf){:target="_blank"}
 * [An Overview of Reconstructability Analysis](https://www.pdx.edu/sysc/sites/www.pdx.edu.sysc/files/overview.pdf){:target="_blank"}
 
