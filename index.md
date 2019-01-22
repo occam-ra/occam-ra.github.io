@@ -6,12 +6,12 @@ layout: default
 ## OCCAM: Reconstructability Analysis Tools
 **O**rganizational **C**omplexity **C**omputation **a**nd **M**odeling.
 
-![Diagram of 4 Variable Reconstructability Analysis](img/reconstructability-analysis.png){:class="ra-img"} OCCAM combines machine learning, data mining, and statistical analysis in a powerful workflow that can be applied to nearly any type of data to understand its structure, select among possible models, and make predictions. It is a collection of software tools comprising a library with both command-line and web interfaces for *Reconstructability Analysis* (RA), an information-theoretic form of statistical analysis closely related to [Factor Analysis](https://en.wikipedia.org/wiki/Factor_analysis){:target="_blank"} and [Bayesian Networks](https://en.wikipedia.org/wiki/Bayesian_network){:target="_blank"}.
+![Diagram of 4 Variable Reconstructability Analysis](img/reconstructability-analysis.png){:class="ra-img"} OCCAM combines machine learning, data mining, and statistical analysis in a powerful workflow that can be applied to to both categorical and quantitative data to understand its structure, select among possible models, and make predictions or discover variable associations. It is a collection of software tools comprising a library with both command-line and web interfaces for *Reconstructability Analysis* (RA), an information-theoretic form of statistical analysis closely related to [Bayesian Networks](https://en.wikipedia.org/wiki/Bayesian_network){:target="_blank"} and [log-linear modeling](https://en.wikipedia.org/wiki/Log-linear_model){:target="_blank"}.
 
 
 The OCCAM project has been developed over several decades at Portland State University under the auspices of its creator Prof. Martin Zwick. Programmers contributing to the work have included Ken Willett, Joe Fusion and H. Forrest Alexander. It its current form it is proprietary, but the primary focus of development efforts at this time is to make OCCAM open source, and to repackage it to provide easy access for researchers, data scientists, and developers who wish to access the functionality in a standard way.
 
-The [current working version of OCCAM](https://dmm.sysc.pdx.edu) is maintained at PSU. That site contains some introductory and research material.
+The [current working version of OCCAM](http://dmm.sysc.pdx.edu/weboccam.cgi) is maintained at PSU. That site contains some introductory and research material.
 
 For a fuller introduction, see the following papers by Dr. Zwick:
 * [Wholes and Parts in General Systems Methodology](https://www.pdx.edu/sites/www.pdx.edu.sysc/files/sysc_wholesg.pdf){:target="_blank"}
