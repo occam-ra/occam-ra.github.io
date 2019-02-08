@@ -1,7 +1,7 @@
 # Getting Started (OCCAM Project Resources)
 
 ## Project communication
-* [http://occam-dev.slack.com](OCCAM slack project)
+* [OCCAM slack project](http://occam-dev.slack.com)
 * Project email group (by invitation)
 * Maintainer contacts
 
