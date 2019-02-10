@@ -1,7 +1,7 @@
 # Getting Started (OCCAM Project Resources)
 
 ## Repositories
-* [OCCAM main repo](http://www.github.com/occam-ra/occam
+* [OCCAM main repo](http://www.github.com/occam-ra/occam)
 * [OCCAM .io (website) repo](http://www.github.com/occam-ra/occam-ra.github.io)
 
 ## Project communication
