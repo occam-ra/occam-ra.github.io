@@ -17,6 +17,8 @@ For an introduction to the software and the method, see:
 * <a href = "what-is-occam.html">What is OCCAM and how does it work?</a>
 * <a href = "what-is-reconstructibility-analysis.html">What is Reconstructibility Analysis?</a>
 
+Want to contribute to the OCCAM project? See the [Getting Started](getting-started.html) page for links to project resources.
+
 This software is currently being released for the first time as Free Software under the GPL v3 or later. Please see the [License](license.md) in this distribution for license terms.
 
 As of right now, the software will be a bit challenging to get started with. There is documentation included, but it is rather out-of-date. The core functionality is encapsulated in a fairly standard C++ library whose interface should be relatively understandable to anyone familiar with both C++ and RA. Help making this software more generally and broadly usable would be greatly appreciated.
