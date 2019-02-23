@@ -10,11 +10,12 @@
 * Project email group (by invitation)
 * Maintainer contacts
 
+## Documentation
+* [OCCAM user manua](https://github.com/gdcutting/occam/tree/master/doc) at main repo
 
 ## Contribution guidelines
 * GitHub workflow
 * Contributors and Maintainers guidelines
-
 
 ## GitHub Guides
 * [GitHub Guide](https://guides.github.com/) - front page to GitHub guides
