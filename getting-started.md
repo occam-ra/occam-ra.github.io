@@ -11,7 +11,7 @@
 * Maintainer contacts
 
 ## Documentation
-* [OCCAM user manua](https://github.com/gdcutting/occam/tree/master/doc) at main repo
+* [OCCAM user manual](https://github.com/gdcutting/occam/tree/master/doc) at main repo
 
 ## Contribution guidelines
 * GitHub workflow
