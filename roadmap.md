@@ -39,7 +39,7 @@ Most of the RA functionality is currently implemented in the c++ classes. There 
 
 We are fortunate to have a PSU capstone project team on board to help with this part of the development. That team is still getting oriented, and we are working on documentation to provide them a little bit of guidance for their project. They are responsible for the details, but we are responsible for providing them some high-level recommendations about the desired new OCCAM application structure. Their changes will go a long way towards the desired upgrade, but that structural redesign will involve further development beyond the capstone project.
 
-## 1.2 Internal decoupling
+### 1.2 Internal decoupling
 
 We want to separate the core RA functionality from I/O and other interfaces. Currently a lot of stuff is mixed together in the c++ - we want to take out the non-essential parts and move those into python to boost programmer productivity, flexibility, and accessibility. We are currently working on organizing this process, alongside planning for the capstone project (which is obviously very closely related).
 
