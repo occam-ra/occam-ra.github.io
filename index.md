@@ -23,4 +23,4 @@ This software is currently being released for the first time as Free Software un
 
 As of right now (early 2019), the software will be a bit challenging to get started with. There is documentation included, but it is rather out-of-date. The core functionality is encapsulated in a fairly standard C++ library whose interface should be relatively understandable to anyone familiar with both C++ and RA. Help making this software more generally and broadly usable would be greatly appreciated.
 
-Here is the current **[project roadmap](roadmap.md)**, if you have an interest in any of the project areas, learn about becoming a [contributor](contributors/).
+See the **[project roadmap](roadmap.md)**, and if you have interest in any of the project areas, learn about becoming a [contributor](contributors/).
