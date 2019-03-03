@@ -10,11 +10,13 @@
 * Project email group (by invitation)
 * Maintainer contacts
 
+## Documentation
+* [OCCAM documentation at GitHub](https://github.com/gdcutting/occam/tree/master/doc)(user manual, design docs, etc.) at main repo
+* [Readthedocs.io version](https://occam.readthedocs.io) - doc platform hosted by [readthedocs.org](https://www.readthedocs.org)
 
-## Contribution guidelines
+## Contribution guidelines (in progress)
 * GitHub workflow
 * Contributors and Maintainers guidelines
-
 
 ## GitHub Guides
 * [GitHub Guide](https://guides.github.com/) - front page to GitHub guides
