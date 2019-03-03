@@ -11,7 +11,7 @@
 * Maintainer contacts
 
 ## Documentation
-* [OCCAM documentation at GitHub](https://github.com/gdcutting/occam/tree/master/doc)(user manual, design docs, etc.) at main repo
+* [OCCAM documentation at GitHub](https://github.com/gdcutting/occam/tree/master/docs) (user manual, design docs, etc.) at main repo
 * [Readthedocs.io version](https://occam.readthedocs.io) - doc platform hosted by [readthedocs.org](https://www.readthedocs.org)
 
 ## Contribution guidelines (in progress)
