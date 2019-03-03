@@ -3,7 +3,6 @@ title: OCCAM Project Roadmap
 layout: default
 ---
 ## OCCAM Project Roadmap
-====================
 
 ### How should I use this document?
 
